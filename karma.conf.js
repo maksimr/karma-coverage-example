@@ -9,6 +9,7 @@ module.exports = function(config) {
         preprocessors: {
             'src/**/*.js': ['coverage']
         },
+        includeBaseline: true,
         coverageReporter: {
             type: 'text'
         },

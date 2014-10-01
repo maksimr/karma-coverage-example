@@ -7,7 +7,7 @@
   "devDependencies": {
     "karma": "^0.12.24",
     "karma-cli": "0.0.4",
-    "karma-coverage": "^0.2.6",
+    "karma-coverage": "git://github.com/nchase/karma-coverage#feature-karma-coverage-baseline",
     "karma-jasmine": "^0.1.5"
   }
 }
