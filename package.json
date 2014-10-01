@@ -1,0 +1,13 @@
+{
+  "name": "KarmaCoverageExample",
+  "version": "0.0.0",
+  "dependencies": {
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "devDependencies": {
+    "karma": "^0.12.24",
+    "karma-cli": "0.0.4",
+    "karma-coverage": "^0.2.6",
+    "karma-jasmine": "^0.1.5"
+  }
+}
